@@ -1,4 +1,4 @@
-# Suporte Técnico | Even Telecom
+# Suporte Técnico | Even Telecom 🛜
 
 Desenvolvido em HTML, CSS e PHP, o guia de suporte técnico foi criado para proporcionar uma forma mais simples e intuitiva de integrar novos colaboradores ao universo de Redes, utilizado no dia a dia da empresa.
 
