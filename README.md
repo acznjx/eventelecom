@@ -1,6 +1,7 @@
-# Guia de Suporte Técnico - Even Telecom
+# Suporte Técnico | Even Telecom
 
-#### Realizado em HTML, CSS e PHP o guia de suporte técnico foi desenvolvido para implementar uma maneira mais fácil e intuitiva de engajar pessoas novas na empresa aos conteúdos de Redes de Computadores que utilizamos no dia-a-dia e procedimentos realizados internamente, assm facilitando o trabalho do orientador/supervisor dentro da equipe e também anexando conteúdos para que o novo colaborador se engaje neste grande mundo da tecnologia!
-<hr>
+Desenvolvido em HTML, CSS e PHP, o guia de suporte técnico foi criado para proporcionar uma forma mais simples e intuitiva de integrar novos colaboradores ao universo de Redes, utilizado no dia a dia da empresa.
 
-OBS: O projeto não possui todas as páginas completas em relação à conteúdo por conta de privacidade de dados da empresa.
+O projeto facilita o trabalho de orientadores e supervisores, centralizando os procedimentos internos e conteúdos essenciais. Além disso, oferece aos novos integrantes a possibilidade de explorar e se engajar mais facilmente no mundo da tecnologia, acelerando sua adaptação à equipe.
+
+<strong> Observação: Por motivos de privacidade, o projeto não contém todas as páginas com conteúdo completo. </strong>
